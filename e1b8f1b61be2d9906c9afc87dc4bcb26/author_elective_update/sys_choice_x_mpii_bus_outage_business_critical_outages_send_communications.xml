@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="send_communications" table="x_mpii_bus_outage_business_critical_outages" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>send_communications</element>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 16:17:08</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ecd389c51b7a9d506c9afc87dc4bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>send_communications</sys_name>
+            <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+            <sys_update_name>sys_choice_x_mpii_bus_outage_business_critical_outages_send_communications</sys_update_name>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-25 16:17:08</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>send_communications</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 16:17:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>61c309c51b7a9d506c9afc87dc4bcbb9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-26 14:26:12</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>send_communications</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 16:17:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e1d389c51b7a9d506c9afc87dc4bcbca</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-26 14:26:19</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

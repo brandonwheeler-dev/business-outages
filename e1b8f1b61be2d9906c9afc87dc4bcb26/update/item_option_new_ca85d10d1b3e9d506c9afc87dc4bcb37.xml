@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
+    <item_option_new action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Report Business Critical Outage">fdc17503dba61d90149d6dacd39619d6</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value><![CDATA[<div>
+<table style="width: 586px; height: 818px;" border="0" cellspacing="0" cellpadding="0"><tbody><tr style="height: 215px;"><td style="width: 582.015625px; height: 215px;" colspan="2">
+<p><img id="Picture_x0020_1" style="width: 570px; height: 185px;" src="/sys_attachment.do?sys_id&#61;87a5dd0d1b3e9d506c9afc87dc4bcbe8" alt="Image" width="589" height="191" /></p>
+</td></tr><tr style="height: 541px;"><td style="width: 572.28125px; height: 541px;">
+<p> </p>
+<p>Hello Supporter Services,</p>
+<p> </p>
+<p>There is a current issue with &lt;system_name&gt;.  Please stop working in &lt;system_name&gt; at this time.  You will be reassigned other tasks soon.  </p>
+<p> </p>
+<p>We are working with IT to resolve the issue and will communicate when the system is available again. For general information, click <span style="text-decoration: underline;">here</span> to access the outage page. </p>
+<p> </p>
+<p><strong>Systems impacted:</strong></p>
+<p>&lt;subsystem&gt;</p>
+<p>&lt;subsystem?</p>
+<p> </p>
+<p><strong>Groups Impacted:</strong></p>
+<p>&lt;User_group&gt;</p>
+<p> </p>
+<p><strong>Processes Impacted:</strong></p>
+<p>&lt;Tasks_impacted&gt;</p>
+<p> </p>
+<p>If you have any questions or need help related to this issue, please email <a href="mailto:PSTeamFolder&#64;us.ci.org" rel="nofollow">PSTeamFolder&#64;us.ci.org</a>. </p>
+<p> </p>
+<p>Thank you for your patience and prayers.</p>
+<p> </p>
+</td><td style="width: 7.734375px; height: 541px;">
+<p> </p>
+</td></tr><tr style="height: 0.7in;"><td style="width: 582.015625px; height: 0px; background-color: #02549b;" colspan="2">
+<p style="text-align: center;"><span style="background-color: #02549b; color: #ffffff;"><strong>Supporter Services Critical Outage Team</strong></span></p>
+<p style="text-align: center;"><span style="background-color: #02549b; color: #ffffff;"><a style="background-color: #02549b; color: #ffffff;" href="mailto:psteamfolder&#64;us.ci.org" rel="nofollow">PSTeamFolder&#64;us.ci.org</a></span></p>
+</td></tr></tbody></table>
+<p> </p>
+</div>]]></default_html_value>
+        <default_value/>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <enable_also_request_for>false</enable_also_request_for>
+        <example_text/>
+        <field/>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <hidden>false</hidden>
+        <include_none>false</include_none>
+        <instructions/>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label/>
+        <lookup_price/>
+        <lookup_table/>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value/>
+        <macro/>
+        <macroponent/>
+        <mandatory>false</mandatory>
+        <map_to_field>false</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>email_template</name>
+        <order>2100</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <published_ref/>
+        <question_text>Email Template</question_text>
+        <read_only>false</read_only>
+        <read_roles/>
+        <read_script/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table>x_mpii_bus_outage_business_critical_outages</record_producer_table>
+        <reference/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <rich_text/>
+        <roles_to_use_also_request_for/>
+        <save_script/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-25 17:36:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ca85d10d1b3e9d506c9afc87dc4bcb37</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Email Template</sys_name>
+        <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+        <sys_update_name>item_option_new_ca85d10d1b3e9d506c9afc87dc4bcb37</sys_update_name>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-25 18:42:50</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>23</type>
+        <u_reportable>false</u_reportable>
+        <ui_page/>
+        <unique>false</unique>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <validate_regex/>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca85d10d1b3e9d506c9afc87dc4bcb37"/>
+    <fx_price action="delete_multiple" query="id=ca85d10d1b3e9d506c9afc87dc4bcb37"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>ca85d10d1b3e9d506c9afc87dc4bcb37</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-25 17:36:54</sys_created_on>
+        <sys_id>c11619cd1b3e9d506c9afc87dc4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-25 17:36:54</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>ca85d10d1b3e9d506c9afc87dc4bcb37</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-25 17:36:54</sys_created_on>
+        <sys_id>c11619cd1b3e9d506c9afc87dc4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-25 17:36:54</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

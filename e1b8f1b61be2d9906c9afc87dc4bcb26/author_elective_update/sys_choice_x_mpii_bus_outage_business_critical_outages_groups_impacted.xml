@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="groups_impacted" table="x_mpii_bus_outage_business_critical_outages" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>groups_impacted</element>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:38:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>be68fecb1bae91106c9afc87dc4bcb5d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>groups_impacted</sys_name>
+            <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+            <sys_update_name>sys_choice_x_mpii_bus_outage_business_critical_outages_groups_impacted</sys_update_name>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-19 19:38:42</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>groups_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contact Center</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fd87fa8b1bae91106c9afc87dc4bcb21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-19 19:38:42</sys_updated_on>
+            <value>contact_center</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>groups_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leadership</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:39:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>69a8760f1bae91106c9afc87dc4bcb95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-19 19:39:42</sys_updated_on>
+            <value>leadership</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>groups_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ops Teams</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:39:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7e98720f1bae91106c9afc87dc4bcb30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-19 19:39:31</sys_updated_on>
+            <value>ops_teams</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>groups_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Processing</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:38:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c778fecb1bae91106c9afc87dc4bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-19 19:38:59</sys_updated_on>
+            <value>processing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>groups_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QA</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:39:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4998b20f1bae91106c9afc87dc4bcb82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-19 19:39:23</sys_updated_on>
+            <value>qa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>groups_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>StarTek</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:39:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e188b20f1bae91106c9afc87dc4bcb78</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:34:48</sys_updated_on>
+            <value>startek</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>groups_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Training</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-19 19:39:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a788b20f1bae91106c9afc87dc4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-19 19:39:17</sys_updated_on>
+            <value>training</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

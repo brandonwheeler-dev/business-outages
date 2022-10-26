@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="staff_status" table="x_mpii_bus_outage_business_critical_outages" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>staff_status</element>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 14:34:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>8b3ca8891b369d506c9afc87dc4bcb69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>staff_status</sys_name>
+            <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+            <sys_update_name>sys_choice_x_mpii_bus_outage_business_critical_outages_staff_status</sys_update_name>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-25 14:34:04</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>staff_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Able to work normally</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 14:34:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fc4c28891b369d506c9afc87dc4bcbc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-25 14:34:18</sys_updated_on>
+            <value>able_to_work_normally</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>staff_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Redirected temporarily</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 14:34:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b25cac891b369d506c9afc87dc4bcbd7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-25 14:34:41</sys_updated_on>
+            <value>redirected_temporarily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>staff_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sent home</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 14:35:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>166ca4c91b369d506c9afc87dc4bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-25 14:35:01</sys_updated_on>
+            <value>sent_home</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>staff_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Workarounds in place</label>
+            <language>en</language>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 14:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9a2c64891b369d506c9afc87dc4bcb26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-25 14:34:04</sys_updated_on>
+            <value>workarounds_in_place</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

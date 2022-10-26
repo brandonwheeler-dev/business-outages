@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">7268ba8f0a0a3c7401097f2273700aa5</dependency>
+        <min_version/>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-19 21:53:00</sys_created_on>
+        <sys_id>9a279b831bead1106c9afc87dc4bcb46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-19 21:53:00</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_mpii_bus_outage.critical_systems_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>critical_systems_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-19 21:28:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8081938f1ba6d1106c9afc87dc4bcb37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_mpii_bus_outage.critical_systems_user</sys_name>
+        <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+        <sys_update_name>sys_user_role_8081938f1ba6d1106c9afc87dc4bcb37</sys_update_name>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-19 21:28:17</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</application>
+        <comments/>
+        <file_path/>
+        <instance_id>7852033c0a0a3d3a018862cfce6ddccf</instance_id>
+        <instance_name>compassiondev</instance_name>
+        <name>sys_user_role_8081938f1ba6d1106c9afc87dc4bcb37</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_mpii_bus_outage.critical_systems_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>critical_systems_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>BWheeler@us.ci.org</sys_created_by><sys_created_on>2022-10-19 21:28:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8081938f1ba6d1106c9afc87dc4bcb37</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_mpii_bus_outage.critical_systems_user</sys_name><sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope><sys_update_name>sys_user_role_8081938f1ba6d1106c9afc87dc4bcb37</sys_update_name><sys_updated_by>BWheeler@us.ci.org</sys_updated_by><sys_updated_on>2022-10-19 21:28:17</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-2004529524</payload_hash>
+        <record_name>x_mpii_bus_outage.critical_systems_user</record_name>
+        <reverted_from/>
+        <source>a9b8f1b61be2d9906c9afc87dc4bcb2a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-19 21:28:17</sys_created_on>
+        <sys_id>c481938f1ba6d1106c9afc87dc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183f225a7470000001</sys_recorded_at>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-19 21:28:17</sys_updated_on>
+        <type>Role</type>
+        <update_guid>8c81938fdaa6d110a38fc253f34abc3d</update_guid>
+        <update_guid_history>8c81938fdaa6d110a38fc253f34abc3d:-2004529524</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2022-10-19 14:38:18">87c393431b6ad1106c9afc87dc4bcbb0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-19 21:38:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>43127d69021d49c298603b9c378a3364</sys_id>
+        <sys_metadata>8081938f1ba6d1106c9afc87dc4bcb37</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_mpii_bus_outage.critical_systems_user</sys_name>
+        <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+        <sys_scope_delete display_value="">3c0df11990044fb09495edcbbc326040</sys_scope_delete>
+        <sys_update_name>sys_user_role_8081938f1ba6d1106c9afc87dc4bcb37</sys_update_name>
+        <sys_update_version display_value="sys_user_role_8081938f1ba6d1106c9afc87dc4bcb37">c481938f1ba6d1106c9afc87dc4bcb3e</sys_update_version>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-19 21:38:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

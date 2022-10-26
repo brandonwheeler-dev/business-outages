@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2eec3dbe1be2d9906c9afc87dc4bcbd3" sys_domain="global" table="x_mpii_bus_outage_business_critical_outages" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_name</element>
+            <position>0</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>1f66c0fc1bbe59506c9afc87dc4bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>d766c0fc1bbe59506c9afc87dc4bcbfc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>5f66c0fc1bbe59506c9afc87dc4bcbfc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>outage_type</element>
+            <position>3</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>d366c0fc1bbe59506c9afc87dc4bcbfd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>4</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>5b66c0fc1bbe59506c9afc87dc4bcbfd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk</element>
+            <position>5</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>df66c0fc1bbe59506c9afc87dc4bcbfd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>5766c0fc1bbe59506c9afc87dc4bcbfe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>7</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>db66c0fc1bbe59506c9afc87dc4bcbfe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>8</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>5366c0fc1bbe59506c9afc87dc4bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date_time</element>
+            <position>9</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>d766c0fc1bbe59506c9afc87dc4bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration</element>
+            <position>10</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>5f66c0fc1bbe59506c9afc87dc4bcbff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>d36604fc1bbe59506c9afc87dc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date_time</element>
+            <position>12</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>5b6604fc1bbe59506c9afc87dc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>df6604fc1bbe59506c9afc87dc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>systems_impacted</element>
+            <position>14</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>576604fc1bbe59506c9afc87dc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sub_systems_impacted</element>
+            <position>15</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>db6604fc1bbe59506c9afc87dc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>groups_impacted</element>
+            <position>16</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>1b6604fc1bbe59506c9afc87dc4bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>staff_status</element>
+            <position>17</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>9f6604fc1bbe59506c9afc87dc4bcb0e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>18</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>176604fc1bbe59506c9afc87dc4bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>it_point_of_contact_name</element>
+            <position>19</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>9b6604fc1bbe59506c9afc87dc4bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>it_point_of_contact_number</element>
+            <position>20</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>136604fc1bbe59506c9afc87dc4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ticket_number</element>
+            <position>21</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>976604fc1bbe59506c9afc87dc4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zoom_link</element>
+            <position>22</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>1f6604fc1bbe59506c9afc87dc4bcb10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_of_outage</element>
+            <position>23</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-24 17:10:24</sys_created_on>
+            <sys_id>936604fc1bbe59506c9afc87dc4bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-24 17:10:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>send_communications</element>
+            <position>24</position>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-25 16:16:23</sys_created_on>
+            <sys_id>fda305c51b7a9d506c9afc87dc4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mpii_bus_outage_business_critical_outages" sys_domain="global" view="Default view">2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_ui_section>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-25 16:16:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_mpii_bus_outage_business_critical_outages</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+            <sys_created_on>2022-10-18 20:40:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_mpii_bus_outage_business_critical_outages</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+            <sys_update_name>sys_ui_section_2eec3dbe1be2d9906c9afc87dc4bcbd3</sys_update_name>
+            <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+            <sys_updated_on>2022-10-18 20:40:15</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

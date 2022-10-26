@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_mpii_bus_outage.getOutageSystems</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>getOutageSystems</name>
+        <script><![CDATA[var getOutageSystems = Class.create();
+getOutageSystems.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	getSubSystems: function () {
+
+		var system = this.getParameter('sysparm_system');
+		//var subsystem = this.getParameter('sysparm_subsystem');
+
+		var gr = new GlideRecord('x_mpii_bus_outage_critical_systems');
+		gr.addQuery('system', system);
+		gr.query();
+
+		var subsystems = [];
+		while (gr.next()) {
+			subsystems.push(gr.subsystem.toString());
+		}
+		return subsystems.toString();
+	},
+	type: 'getOutageSystems'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>BWheeler@us.ci.org</sys_created_by>
+        <sys_created_on>2022-10-20 18:47:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>dbd477171bead5106c9afc87dc4bcbfe</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>getOutageSystems</sys_name>
+        <sys_package display_value="Business Critical Outages" source="x_mpii_bus_outage">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Critical Outages">e1b8f1b61be2d9906c9afc87dc4bcb26</sys_scope>
+        <sys_update_name>sys_script_include_dbd477171bead5106c9afc87dc4bcbfe</sys_update_name>
+        <sys_updated_by>BWheeler@us.ci.org</sys_updated_by>
+        <sys_updated_on>2022-10-24 16:14:29</sys_updated_on>
+    </sys_script_include>
+</record_update>
